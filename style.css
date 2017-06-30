@@ -1,0 +1,44 @@
+body
+{
+	padding: 1% 5%;
+}
+
+h1
+{
+	color: blue;
+	text-align: center;
+}
+
+.SemestreDiv
+{
+	text-align: center;
+	display: table;
+	width: 100%;
+	vertical-align: middle;
+	border-color: black;
+	border-radius: 10px;
+	border-style: solid;
+}
+
+.SemestreTitulo
+{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	width: auto;
+	height: 100%;
+	word-wrap: break-word;
+	width: 7em;
+}
+
+.MateriaDiv
+{
+	background-color: #D5D5D5;
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 10px;
+	margin: 1%;
+	width: 11em;
+	height: 10em;
+	word-wrap: break-word;
+}
